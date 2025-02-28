@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # mobile
 Job_Connect
-=======
-# job_connect
 
 A new Flutter project.
 
